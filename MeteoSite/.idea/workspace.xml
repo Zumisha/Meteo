@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65b41bcd-5e88-42b1-9c85-23e482e58f92" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1608950654">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="4" />
+          <entry key="html" value="1" />
+          <entry key="js" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="76" />
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="76" />
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="823156244">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="123" value="3" />
+          <entry key="html" value="53" />
+          <entry key="js" value="2174" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="53" />
+          <entry key="JavaScript" value="2177" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="123" value="1" />
+          <entry key="23" value="1" />
+          <entry key="js" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Scripts/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5044">
+              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+              <folding>
+                <element signature="e#249#349#0" />
+                <element signature="e#448#553#0" />
+                <element signature="e#575#747#0" />
+                <element signature="n#!!block;n#getData#0" />
+                <element signature="n#!!block;n#RebuildTable#0" />
+                <element signature="n#!!block;n#getTempCellClass#0" />
+                <element signature="n#!!block;n#getHumCellClass#0" />
+                <element signature="n#!!block;n#getDefaultClass#0" />
+                <element signature="n#!!block;n#getCO2CellClass#0" />
+                <element signature="n#!!block;n#ToHex#0" />
+                <element signature="n#!!block;n#ResetZoom#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>skip</find>
+      <find>isDatasetVisible</find>
+      <find>hasOwnProperty</find>
+      <find>'_view'</find>
+      <find>_view</find>
+      <find>ce</find>
+      <find>function ce</find>
+      <find>t){return!t.crosshair.dragStarted&amp;&amp;</find>
+      <find>getData</find>
+      <find>bbCodeQuote</find>
+      <find>bbCode</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ThirdParty/JQuery.slim.js" />
+        <option value="$PROJECT_DIR$/ThirdParty/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/ThirdParty/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/ThirdParty/Bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/ThirdParty/Chart.min.js" />
+        <option value="$PROJECT_DIR$/ThirdParty/index.js" />
+        <option value="$PROJECT_DIR$/ThirdParty/trace.js" />
+        <option value="$PROJECT_DIR$/ThirdParty/interpolate.js" />
+        <option value="$PROJECT_DIR$/ThirdParty/crosshair.js" />
+        <option value="$PROJECT_DIR$/ThirdParty/crosshair.min.js" />
+        <option value="$PROJECT_DIR$/ThirdParty/chartjs-plugin-crosshair.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Scripts/script.js" />
+        <option value="$PROJECT_DIR$/Scripts/23" />
+        <option value="$PROJECT_DIR$/Scripts/123" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MeteoSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MeteoSite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MeteoSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MeteoSite" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MeteoSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MeteoSite" type="462c0819:PsiDirectoryNode" />
+              <item name="ThirdParty" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.Moment.min.js">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MeteoSite/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="Bootstrap.min.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ThirdParty/Bootstrap.min.js" working-dir="$PROJECT_DIR$/ThirdParty">
+      <method v="2" />
+    </configuration>
+    <configuration name="Chart.min.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="Chart.min.js" working-dir="$PROJECT_DIR$/ThirdParty">
+      <method v="2" />
+    </configuration>
+    <configuration name="Moment.min.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="Moment.min.js" working-dir="$PROJECT_DIR$/ThirdParty">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.Bootstrap.min.js" />
+      <item itemvalue="Node.js.Chart.min.js" />
+      <item itemvalue="Node.js.Moment.min.js" />
+      <item itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65b41bcd-5e88-42b1-9c85-23e482e58f92" name="Default Changelist" comment="" />
+      <created>1561759970865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561759970865</updated>
+      <workItem from="1561759972460" duration="4529000" />
+      <workItem from="1563743659689" duration="1142000" />
+      <workItem from="1563790742412" duration="593000" />
+      <workItem from="1564571310714" duration="604000" />
+      <workItem from="1564579090382" duration="1243000" />
+      <workItem from="1565466364975" duration="2629000" />
+      <workItem from="1566069589310" duration="599000" />
+      <workItem from="1566429994447" duration="58403000" />
+      <workItem from="1566673969212" duration="1130000" />
+      <workItem from="1566732126217" duration="6378000" />
+      <workItem from="1566776939905" duration="4613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="81863000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24762908" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url />
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ThirdParty/Bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/ThirdParty/Moment.min.js" />
+    <entry file="file://$PROJECT_DIR$/ThirdParty/JQuery.slim.js" />
+    <entry file="file://$PROJECT_DIR$/ThirdParty/Chart.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThirdParty/Bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThirdParty/Chart.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="2151" column="62" lean-forward="true" selection-start-line="2151" selection-start-column="62" selection-end-line="2151" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThirdParty/index.js" />
+    <entry file="file://$PROJECT_DIR$/ThirdParty/zoom.js" />
+    <entry file="file://$PROJECT_DIR$/ThirdParty/trace.js" />
+    <entry file="file://$PROJECT_DIR$/ThirdParty/interpolate.js" />
+    <entry file="file://$PROJECT_DIR$/ThirdParty/crosshair.js" />
+    <entry file="file://$PROJECT_DIR$/ThirdParty/crosshair.min.js" />
+    <entry file="file://$PROJECT_DIR$/ThirdParty/chartjs-plugin-crosshair.js" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/123">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-511">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#44#50#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/23">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="156" column="34" selection-start-line="156" selection-start-column="28" selection-end-line="156" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#object#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5044">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <folding>
+            <element signature="e#249#349#0" />
+            <element signature="e#448#553#0" />
+            <element signature="e#575#747#0" />
+            <element signature="n#!!block;n#getData#0" />
+            <element signature="n#!!block;n#RebuildTable#0" />
+            <element signature="n#!!block;n#getTempCellClass#0" />
+            <element signature="n#!!block;n#getHumCellClass#0" />
+            <element signature="n#!!block;n#getDefaultClass#0" />
+            <element signature="n#!!block;n#getCO2CellClass#0" />
+            <element signature="n#!!block;n#ToHex#0" />
+            <element signature="n#!!block;n#ResetZoom#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+
+<link rel="StyleSheet" href=".\ThirdParty\Bootstrap.min.css">
+<link rel="StyleSheet" href=".\ThirdParty\Chart.min.css">
+<script src=".\ThirdParty\hammer.min.js"></script>
+<script src=".\ThirdParty\Chart.min.js"></script>
+<script src=".\ThirdParty\zoom.min.js"></script>
+<script src=".\Scripts\script.js"></script>
+
+<html>
+ <head>
+   <link rel="icon" type="image/png" href="./favicon.png" />
+   <title>Метео</title>
+ </head>
+ <body class="bg-dark">
+
+ <br><br><br>
+
+<div class="container">
+<div class="row">
+<canvas id="chart" ondblclick="ResetZoom()">
+  <p>Your browser does not support the canvas element.</p>
+</canvas>
+<br>
+
+<table id="table" class="table table-bordered table-striped table-dark table-hover table-responsive-md">
+  <thead>
+    <tr>
+      <th scope="col">Дата</th>
+      <th scope="col">Температура, °C</th>
+      <th scope="col">Относительная влажность, %</th>
+      <th scope="col">Атмосферное давление, mm Hg</th>
+      <th scope="col">Содержание CO2, ppm</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+
+</div><!-- /.row -->
+</div><!-- /.container -->
+
+ </body>
+</html>
